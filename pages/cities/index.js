@@ -12,6 +12,7 @@ export default function CitiesOverview() {
           </li>
         ))}
       </ul>
+      <Link href="/">⇨ Back to Homepage</Link>
     </>
   );
 }
